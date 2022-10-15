@@ -5,3 +5,5 @@
 - https://speakerdeck.com/utkanos/dont-be-a-dummy-a-crash-course-in-automotive-security-ekoparty-2016?slide=16
 - https://www.youtube.com/watch?v=-rwXSVT7kNo
 - https://www.youtube.com/watch?v=P-mzo2X47sg
+- https://www.youtube.com/watch?v=P-mzo2X47sg
+  https://www.youtube.com/watch?v=P-mzo2X47sg
