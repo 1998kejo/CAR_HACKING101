@@ -7,3 +7,7 @@
 - https://www.youtube.com/watch?v=P-mzo2X47sg
 - https://www.youtube.com/watch?v=P-mzo2X47sg
   https://www.youtube.com/watch?v=P-mzo2X47sg
+  
+  OSINT MATERIALS 
+  ====================================
+  https://www.youtube.com/watch?v=qwA6MmbeGNo
